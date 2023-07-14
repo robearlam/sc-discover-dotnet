@@ -1,4 +1,4 @@
-# sc-discvover-dotnet
+# sc-discover-dotnet
 This is a sample repository showing how you can call the Sitecore Discover API with C# and DotNet.
 
 # Parameters
